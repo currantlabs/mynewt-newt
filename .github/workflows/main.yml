@@ -19,4 +19,4 @@ jobs:
 
       - name: Install mynewt
         run: |
-          go install
+          ./build.sh
